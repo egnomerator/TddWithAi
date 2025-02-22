@@ -16,6 +16,11 @@ We worked together through the TDD process, writing non-compiling tests, making 
 
 While this was a relatively simple session--a tiny code base, a few tests, a few classes--this session included many opportunities for the AI to show off.
 
+I chose to work with familiar concepts just to make it easier for me as i went through this exercise.
+
+- it occurs to me that in doing so, i've used concepts from a generic subdomain (accounting concepts) for which published analysis patterns exist
+- i'm curious how much an impact my choice had on the quality of the results
+
 ## Interactions
 
 - at times, i was deliberately vague with prompts and still found it incredible how appropriate/intuitive/helpful responses were
