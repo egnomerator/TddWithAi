@@ -1,14 +1,14 @@
-# MY FIRST EXPERIENCE - DEDICATED EFFORT TO CODE WITH AI ASSISTANCE - TDD WITH AI
+# My First Experience - Dedicated Effort To Code With AI Assistance - TDD With AI
 
-## FIRST STEP - created a new console project, and a test project, and added one non-compiling test
+## First Step - created a new console project, and a test project, and added one non-compiling test
 
-## SECOND STEP--AND BEYOND - started working using AI
+## Second Step--and Beyond - started working using AI
 
-## SCREENSHOTS - these document the entire process from the first chat prompt forward
+## Screenshots - these document the entire process from the first chat prompt forward
 
 - screenshots located in a screenshots directory under "tdd-with-ai-experience-takeaways"
 
-## OVERAL IMPRESSION
+## Overall Impression
 
 It was almost like a paired programming session with a highly competent, knowledgeable partner--almost. and this was mind-blowing to me.
 
@@ -16,7 +16,7 @@ We worked together through the TDD process, writing non-compiling tests, making 
 
 While this was a relatively simple session--a tiny code base, a few tests, a few classes--this session included many opportunities for the AI to show off.
 
-## INTERACTIONS
+## Interactions
 
 - at times, i was deliberately vague with prompts and still found it incredible how appropriate/intuitive/helpful responses were
 - when i put thoughtful instructions in the prompt, the responses were typically acceptable as is or very close
