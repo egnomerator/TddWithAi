@@ -6,6 +6,8 @@
 
 ## SCREENSHOTS - these document the entire process from the first chat prompt forward
 
+- screenshots located in a screenshots directory under "tdd-with-ai-experience-takeaways"
+
 ## OVERAL IMPRESSION
 
 It was almost like a paired programming session with a highly competent, knowledgeable partner--almost. and this was mind-blowing to me.
@@ -35,6 +37,6 @@ While this was a relatively simple session--a tiny code base, a few tests, a few
 - you can configure different models to include--i just left the defaults
     - my impression is that the claude-3.5-sonnet model may be a premium model--specifically for writing software?
     - if this is the case, i'm curious if i'll notice a change after the free trial when i can only use non-premium models
-- **FYI one screenshot** shows the usage of Premium models toward a monthly quota in my Cursor account
+- **FYI one screenshot** "usage-from-1st-session--all-in-screenshots.png" shows the usage of Premium models toward a monthly quota in my Cursor account
     - looked like a lot for one sit down session--at least a lot in terms of how much of a quota was used up
     - this is a free trial though--and my impression from a video demo is that the free account is still excellent, but maybe slower? idk
